@@ -409,6 +409,7 @@ xSend:=xSent);
 |Output  | sDiagMsg| String | Сообщение диагностики|
 |Output  | udiState| Udint | Слово состояние блока|
 |Output  | xError| bool | Ошибка в процессе выполнения|
+
 <br/>
 ----
 ## 3.2 Настройка подключения MQTT клиента
