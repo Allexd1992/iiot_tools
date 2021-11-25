@@ -226,7 +226,7 @@ GET-запрос осуществляется с помощбю функцион
 PROGRAM HTTP_Get_Request
 VAR
 HTTP:IIOT.HTTP_GET;
-IP:STRING:='10.177.3.61';
+IP:STRING:='192.168.250.100';
 iPort:INT:=80;
 url:STRING(255);
 run:BOOL;
